@@ -19,7 +19,7 @@ public class NewTest {
     public void testEasy1() {    
         driver.get("http://www.google.co.in");  
         String title = driver.getTitle();                
-        Assert.assertTrue(title.contains("Free Selenium Tutorials"));       
+        Assert.assertTrue(title.contains("Google"));       
     }
     
     @BeforeTest
