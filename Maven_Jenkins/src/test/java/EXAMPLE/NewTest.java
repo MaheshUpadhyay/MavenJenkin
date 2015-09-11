@@ -13,7 +13,7 @@ public class NewTest {
     public void testEasy() {    
         driver.get("http://www.automationcode.com");  
         String title = driver.getTitle();                
-        Assert.assertTrue(title.contains("Free Selenium Tutorials"));       
+        Assert.assertTrue(title.contains("Free Selenium Tutorialsd"));       
     }
     @Test
     public void testEasy1() {    
