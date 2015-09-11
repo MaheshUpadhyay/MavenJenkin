@@ -11,15 +11,15 @@ public class NewTest {
 	private WebDriver driver;       
     @Test              
     public void testEasy() {    
-        driver.get("http://www.automationcode.com");  
+    	driver.get("http://www.google.co.in");  
         String title = driver.getTitle();                
-        Assert.assertTrue(title.contains("Free Selenium Tutorialsd"));       
+        Assert.assertTrue(title.contains("Google"));        
     }
     @Test
     public void testEasy1() {    
         driver.get("http://www.google.co.in");  
         String title = driver.getTitle();                
-        Assert.assertTrue(title.contains("Googlesddv"));       
+        Assert.assertTrue(title.contains("Google"));       
     }
     
     @BeforeTest
