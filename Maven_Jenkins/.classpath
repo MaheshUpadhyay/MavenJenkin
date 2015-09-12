@@ -32,5 +32,27 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/reportng-1.1.4/reportng-1.1.4/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/reportng-1.1.4/reportng-1.1.4/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/jdiff/jdiff.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/jdiff/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/bnd-0.0.384.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/cglib-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/easymock.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/felix-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/guava-testlib-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/jarjar-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/javax.inject-tck.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/jsr305.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/munge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/safesax.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahesh/Downloads/guice-master/guice-master/lib/build/spring-core.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
