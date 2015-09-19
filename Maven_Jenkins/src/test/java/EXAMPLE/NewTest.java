@@ -13,7 +13,7 @@ public class NewTest {
     public void testEasy() {    
     	driver.get("http://www.google.co.in");  
         String title = driver.getTitle();                
-        Assert.assertTrue(title.contains("Google f"));        
+        Assert.assertTrue(title.contains("Google training"));        
     }
     @Test
     public void testEasy1() {    
